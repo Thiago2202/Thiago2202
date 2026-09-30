@@ -12,17 +12,10 @@
 
 <img src="https://streak-stats.demolab.com?user=Thiago2202&theme=tokyonight&hide_border=true" />
 
+<!-- Luffy Gear 5 correndo -->
+<img width="400" src="https://media1.tenor.com/m/iuT4s3VoMxIAAAAC/luffy-gear-5-goofy-run.gif" alt="Luffy Gear 5 correndo" />
+
 </div>
-
-<!-- Seção que abre e fecha -->
-<details>
-<summary><b>🎮 Meus projetos</b></summary>
-
-- **godot-gta-clone**: jogo em mundo aberto feito no Godot
-- **sistema-express-postgres**: API com Express e PostgreSQL
-- **ginga-motion**: captura de movimento por IA no navegador (MediaPipe) para um app de dança gamificada voltado ao público 60+
-
-</details>
 
 <!-- Cobrinha comendo as contribuições -->
 <picture>
