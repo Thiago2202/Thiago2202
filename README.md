@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Luffy Gear 5 correndo -->
-<img width="480" src="https://media1.tenor.com/m/iuT4s3VoMxIAAAAC/luffy-gear-5-goofy-run.gif" alt="Luffy Gear 5 correndo" />
-
-<!-- Texto sendo digitado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Dev+de+jogos+e+back-end;Unity+%E2%80%A2+Godot+%E2%80%A2+Python+%E2%80%A2+Node" />
+<!-- Luffy Gear 5 correndo (pixel art) -->
+<img src="https://github.com/paulolobo7/paulolobo7/raw/main/assets/luffy2.gif" alt="Luffy Gear 5 correndo" />
 
 <!-- Ícones das tecnologias -->
 <img src="https://skillicons.dev/icons?i=cs,unity,godot,py,nodejs,express,postgres,git" />
