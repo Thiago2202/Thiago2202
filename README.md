@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Texto sendo digitado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Thiago+👋;Dev+de+jogos+e+back-end;Unity+•+Godot+•+Python+•+Node" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Thiago+%F0%9F%91%8B;Dev+de+jogos+e+back-end;Unity+%E2%80%A2+Godot+%E2%80%A2+Python+%E2%80%A2+Node" />
 
 <!-- Ícones das tecnologias -->
 <img src="https://skillicons.dev/icons?i=cs,unity,godot,py,nodejs,express,postgres,git" />
@@ -20,11 +20,11 @@
 
 - **godot-gta-clone**: jogo em mundo aberto feito no Godot
 - **sistema-express-postgres**: API com Express e PostgreSQL
-- **ginga-motion**: ...
+- **ginga-motion**: captura de movimento por IA no navegador (MediaPipe) para um app de dança gamificada voltado ao público 60+
 
 </details>
 
-<!-- Cobrinha comendo suas contribuições (veja o passo 3) -->
+<!-- Cobrinha comendo as contribuições -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago2202/Thiago2202/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/Thiago2202/Thiago2202/output/github-snake.svg" />
