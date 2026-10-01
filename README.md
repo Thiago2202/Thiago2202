@@ -4,7 +4,7 @@
 <img src="https://github.com/paulolobo7/paulolobo7/raw/main/assets/luffy2.gif" alt="Luffy Gear 5 correndo" />
 
 <!-- Ícones das tecnologias -->
-<img src="https://skillicons.dev/icons?i=cs,unity,godot,py,nodejs,express,postgres,git" />
+<img src="https://skillicons.dev/icons?i=cs,unity,godot,py,nodejs,java,postgres,git" />
 
 <!-- Estatísticas geradas automaticamente -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiago2202&show_icons=true&theme=tokyonight&hide_border=true" />
